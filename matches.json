@@ -24,7 +24,7 @@
     },
     "mandante": {
       "nome": "Bolívia",
-      "forca": 2,
+      "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     },
     "visitante": {
@@ -46,7 +46,7 @@
     },
     "visitante": {
       "nome": "Colombia",
-      "forca": 3,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
   }
